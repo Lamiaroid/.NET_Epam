@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sorts\Sorts\bin\Debug\Sorts.dll
+C:\Users\User\Documents\Sorts\Sorts\bin\Debug\Sorts.pdb
+C:\Users\User\Documents\Sorts\Sorts\obj\Debug\Sorts.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sorts\Sorts\obj\Debug\Sorts.dll
+C:\Users\User\Documents\Sorts\Sorts\obj\Debug\Sorts.pdb
+C:\Users\User\Documents\Sorts\Sorts\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\Sorts\Sorts\bin\Debug\nunit.framework.pdb
+C:\Users\User\Documents\Sorts\Sorts\bin\Debug\nunit.framework.xml
+C:\Users\User\Documents\Sorts\Sorts\obj\Debug\Sorts.csproj.CopyComplete
+C:\Users\User\Documents\Sorts\Sorts\obj\Debug\Sorts.csprojAssemblyReference.cache
