@@ -1,0 +1,2 @@
+C:\Users\User\Documents\NET.S.2019.Tkachenko.01_1a\MultifileAssembly\obj\Debug\MultifileAssembly.csprojAssemblyReference.cache
+C:\Users\User\Documents\NET.S.2019.Tkachenko.01_1a\MultifileAssembly\obj\Debug\MultifileAssembly.csproj.CoreCompileInputs.cache
