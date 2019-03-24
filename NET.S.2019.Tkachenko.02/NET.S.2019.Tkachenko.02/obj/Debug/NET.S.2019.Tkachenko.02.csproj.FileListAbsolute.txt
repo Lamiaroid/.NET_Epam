@@ -1,0 +1,10 @@
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\bin\Debug\NET.S.2019.Tkachenko.02.dll
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\bin\Debug\NET.S.2019.Tkachenko.02.pdb
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\bin\Debug\nunit.framework.pdb
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\bin\Debug\nunit.framework.xml
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\obj\Debug\NET.S.2019.Tkachenko.02.csprojAssemblyReference.cache
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\obj\Debug\NET.S.2019.Tkachenko.02.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\obj\Debug\NET.S.2019.Tkachenko.02.csproj.CopyComplete
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\obj\Debug\NET.S.2019.Tkachenko.02.dll
+C:\Users\User\Documents\NET.S.2019.Tkachenko.02\NET.S.2019.Tkachenko.02\obj\Debug\NET.S.2019.Tkachenko.02.pdb
