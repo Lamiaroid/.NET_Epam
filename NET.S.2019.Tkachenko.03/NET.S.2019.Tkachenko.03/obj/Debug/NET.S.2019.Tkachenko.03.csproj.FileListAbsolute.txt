@@ -8,3 +8,12 @@ C:\Users\User\Documents\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\bin\Debu
 C:\Users\User\Documents\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\obj\Debug\NET.S.2019.Tkachenko.03.csproj.CopyComplete
 C:\Users\User\Documents\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\obj\Debug\NET.S.2019.Tkachenko.03.dll
 C:\Users\User\Documents\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\obj\Debug\NET.S.2019.Tkachenko.03.pdb
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\bin\Debug\NET.S.2019.Tkachenko.03.dll
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\bin\Debug\NET.S.2019.Tkachenko.03.pdb
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\bin\Debug\nunit.framework.pdb
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\bin\Debug\nunit.framework.xml
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\obj\Debug\NET.S.2019.Tkachenko.03.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\obj\Debug\NET.S.2019.Tkachenko.03.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\obj\Debug\NET.S.2019.Tkachenko.03.dll
+C:\Users\User\Documents\GitHub\.NET_Epam\NET.S.2019.Tkachenko.03\NET.S.2019.Tkachenko.03\obj\Debug\NET.S.2019.Tkachenko.03.pdb

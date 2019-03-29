@@ -68,57 +68,74 @@ namespace NET.S._2019.Tkachenko._03
         /// </summary>
         public int BinaryGCDAlgorithm(params int[] numbers)
         {
+
             AlgorithmArgumentsValidation(numbers);
-
-            int shift = 0;
-
+            
             int i = 0;
+
             numbers[i] = Math.Abs(numbers[i]);
 
-            // Let shift := lg K, where K is the greatest power of 2 dividing both numbers[i] and numbers[i + 1]
             while (i + 1 < numbers.Length)
             {
                 numbers[i + 1] = Math.Abs(numbers[i + 1]);
 
-                while (((numbers[i] | numbers[i + 1]) & 1) == 0)
+                if (numbers[i] == 0)
                 {
-                    shift++;
-                    numbers[i] >>= 1;
-                    numbers[i + 1] >>= 1;
+                    numbers[i] = numbers[i + 1];
                 }
 
-                while ((numbers[i] & 1) == 0)
+                if (numbers[i + 1] == 0)
                 {
-                    numbers[i] >>= 1;
+                    numbers[i + 1] = numbers[i];
                 }
 
-                // From here on, numbers[i] is always odd
-                do
+                if (numbers[i] != numbers[i + 1])
                 {
-                    // Remove all factors of 2 in numbers[i + 1] -- they are not common
-                    // Note: numbers[i + 1] is not zero, so while will terminate
-                    while ((numbers[i + 1] & 1) == 0)
+                    // Let shift := lg K, where K is the greatest power of 2 dividing both numbers[i] and numbers[i + 1]
+                    int shift = 0;
+                    while (((numbers[i] | numbers[i + 1]) & 1) == 0)
                     {
+                        shift++;
+                        numbers[i] >>= 1;
                         numbers[i + 1] >>= 1;
                     }
 
-                    // Now u and numbers[i + 1] are both odd. Swap if necessary so numbers[i] <= numbers[i + 1],
-                    // then set numbers[i + 1] = numbers[i + 1] - numbers[i] (which is even). For bignums, the
-                    // swapping is just pointer movement, and the subtraction can be done in-place
-                    if (numbers[i] > numbers[i + 1])
+                    while ((numbers[i] & 1) == 0)
                     {
-                        Swap(ref numbers[i], ref numbers[i + 1]);
+                        numbers[i] >>= 1;
                     }
 
-                    // Here numbers[i + 1] >= numbers[i]
-                    numbers[i + 1] -= numbers[i]; 
-                } while (numbers[i + 1] != 0);
+                    // From here on, numbers[i] is always odd
+                    do
+                    {
+                        // Remove all factors of 2 in numbers[i + 1] -- they are not common
+                        // Note: numbers[i + 1] is not zero, so while will terminate
+                        while ((numbers[i + 1] & 1) == 0)
+                        {
+                            numbers[i + 1] >>= 1;
+                        }
+
+                        // Now numbers[i] and numbers[i + 1] are both odd. Swap if necessary so numbers[i] <= numbers[i + 1],
+                        // then set numbers[i + 1] = numbers[i + 1] - numbers[i] (which is even). For bignums, the
+                        // swapping is just pointer movement, and the subtraction can be done in-place
+                        if (numbers[i] > numbers[i + 1])
+                        {
+                            Swap(ref numbers[i], ref numbers[i + 1]);
+                        }
+
+                        // Here numbers[i + 1] >= numbers[i]
+                        numbers[i + 1] -= numbers[i];
+                    } while (numbers[i + 1] != 0);
+
+                    // Restore common factors of 2
+                    numbers[i] <<= shift;
+                    numbers[i + 1] = numbers[i];
+                }
 
                 i++;
             }
-
-            // Restore common factors of 2
-            return numbers[i] << shift;
+            
+            return numbers[i];
         }
 
         /// <summary>

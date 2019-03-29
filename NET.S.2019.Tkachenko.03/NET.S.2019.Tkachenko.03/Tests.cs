@@ -219,6 +219,17 @@ namespace NET.S._2019.Tkachenko._03
         }
 
         [TestCase]
+        public void EuclideanAlgorithmTest9()
+        {
+            GCDFinder gcdFinder = new GCDFinder();
+
+            int expected = 100;
+            int actual = gcdFinder.EuclideanAlgorithm(100, 100, 100, 100, 100, 100, 100, 100, 100, 100);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestCase]
         public void EuclideanAlgorithmMinimalIntTest1()
         {
             GCDFinder gcdFinder = new GCDFinder();
@@ -274,18 +285,18 @@ namespace NET.S._2019.Tkachenko._03
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 3;
-            int actual = gcdFinder.EuclideanAlgorithm(3, 6);
+            int actual = gcdFinder.BinaryGCDAlgorithm(3, 6);
 
             Assert.AreEqual(expected, actual);
         }
-
+        
         [TestCase]
         public void BinaryGCDAlgorithmTest2()
         {
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 3;
-            int actual = gcdFinder.EuclideanAlgorithm(18, 6, 3);
+            int actual = gcdFinder.BinaryGCDAlgorithm(18, 6, 3);
 
             Assert.AreEqual(expected, actual);
         }
@@ -296,7 +307,7 @@ namespace NET.S._2019.Tkachenko._03
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 106;
-            int actual = gcdFinder.EuclideanAlgorithm(106, 0);
+            int actual = gcdFinder.BinaryGCDAlgorithm(106, 0);
 
             Assert.AreEqual(expected, actual);
         }
@@ -307,7 +318,7 @@ namespace NET.S._2019.Tkachenko._03
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 1;
-            int actual = gcdFinder.EuclideanAlgorithm(105, 95, 107, 22, 14);
+            int actual = gcdFinder.BinaryGCDAlgorithm(105, 95, 107, 22, 14);
 
             Assert.AreEqual(expected, actual);
         }
@@ -318,7 +329,7 @@ namespace NET.S._2019.Tkachenko._03
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 1;
-            int actual = gcdFinder.EuclideanAlgorithm(int.MaxValue, 17);
+            int actual = gcdFinder.BinaryGCDAlgorithm(int.MaxValue, 17);
 
             Assert.AreEqual(expected, actual);
         }
@@ -329,7 +340,7 @@ namespace NET.S._2019.Tkachenko._03
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 17;
-            int actual = gcdFinder.EuclideanAlgorithm(-34, 68, -136, 17, -272);
+            int actual = gcdFinder.BinaryGCDAlgorithm(-34, 68, -136, 17, -272);
 
             Assert.AreEqual(expected, actual);
         }
@@ -340,7 +351,7 @@ namespace NET.S._2019.Tkachenko._03
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 1221;
-            int actual = gcdFinder.EuclideanAlgorithm(-0, 0, -0, 1221, 0, -0, 0);
+            int actual = gcdFinder.BinaryGCDAlgorithm(-0, 0, -0, 1221, 0, -0, 0);
 
             Assert.AreEqual(expected, actual);
         }
@@ -351,7 +362,18 @@ namespace NET.S._2019.Tkachenko._03
             GCDFinder gcdFinder = new GCDFinder();
 
             int expected = 1;
-            int actual = gcdFinder.EuclideanAlgorithm(123451, 1231246, -34698693, 12364568, -124752344, -1231245, 9999999);
+            int actual = gcdFinder.BinaryGCDAlgorithm(123451, 1231246, -34698693, 12364568, -124752344, -1231245, 9999999);
+
+            Assert.AreEqual(expected, actual);
+        }
+
+        [TestCase]
+        public void BinaryGCDAlgorithmTest9()
+        {
+            GCDFinder gcdFinder = new GCDFinder();
+
+            int expected = 100;
+            int actual = gcdFinder.BinaryGCDAlgorithm(100, 100, 100, 100, 100, 100, 100, 100, 100, 100);
 
             Assert.AreEqual(expected, actual);
         }
@@ -361,7 +383,7 @@ namespace NET.S._2019.Tkachenko._03
         {
             GCDFinder gcdFinder = new GCDFinder();
 
-            Assert.Throws<ArgumentException>(() => gcdFinder.EuclideanAlgorithm(256, int.MinValue), "Value can't be equal to minimal integer.");
+            Assert.Throws<ArgumentException>(() => gcdFinder.BinaryGCDAlgorithm(256, int.MinValue), "Value can't be equal to minimal integer.");
         }
 
         [TestCase]
@@ -369,7 +391,7 @@ namespace NET.S._2019.Tkachenko._03
         {
             GCDFinder gcdFinder = new GCDFinder();
 
-            Assert.Throws<ArgumentException>(() => gcdFinder.EuclideanAlgorithm(int.MaxValue, int.MinValue), "Value can't be equal to minimal integer.");
+            Assert.Throws<ArgumentException>(() => gcdFinder.BinaryGCDAlgorithm(int.MaxValue, int.MinValue), "Value can't be equal to minimal integer.");
         }
 
         [TestCase]
@@ -377,7 +399,7 @@ namespace NET.S._2019.Tkachenko._03
         {
             GCDFinder gcdFinder = new GCDFinder();
 
-            Assert.Throws<ArgumentException>(() => gcdFinder.EuclideanAlgorithm(11), "There should be at least 2 numbers.");
+            Assert.Throws<ArgumentException>(() => gcdFinder.BinaryGCDAlgorithm(11), "There should be at least 2 numbers.");
         }
 
         [TestCase]
@@ -385,7 +407,7 @@ namespace NET.S._2019.Tkachenko._03
         {
             GCDFinder gcdFinder = new GCDFinder();
 
-            Assert.Throws<ArgumentException>(() => gcdFinder.EuclideanAlgorithm(), "There should be at least 2 numbers.");
+            Assert.Throws<ArgumentException>(() => gcdFinder.BinaryGCDAlgorithm(), "There should be at least 2 numbers.");
         }
 
         [TestCase]
@@ -393,7 +415,7 @@ namespace NET.S._2019.Tkachenko._03
         {
             GCDFinder gcdFinder = new GCDFinder();
 
-            Assert.Throws<ArgumentException>(() => gcdFinder.EuclideanAlgorithm(0, 0), "All arguments can't be equal to 0 at the same time.");
+            Assert.Throws<ArgumentException>(() => gcdFinder.BinaryGCDAlgorithm(0, 0), "All arguments can't be equal to 0 at the same time.");
         }
 
         [TestCase]
@@ -401,7 +423,7 @@ namespace NET.S._2019.Tkachenko._03
         {
             GCDFinder gcdFinder = new GCDFinder();
 
-            Assert.Throws<ArgumentException>(() => gcdFinder.EuclideanAlgorithm(0, 0, 0, 0, 0, 0, 0, 0), "All arguments can't be equal to 0 at the same time.");
+            Assert.Throws<ArgumentException>(() => gcdFinder.BinaryGCDAlgorithm(0, 0, 0, 0, 0, 0, 0, 0), "All arguments can't be equal to 0 at the same time.");
         }
         #endregion
     }
