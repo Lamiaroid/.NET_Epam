@@ -1,0 +1,7 @@
+C:\Users\User\Documents\NET.S.Tkachenko.08\NET.S.Tkachenko.08\bin\Debug\NET.S.Tkachenko.08.exe.config
+C:\Users\User\Documents\NET.S.Tkachenko.08\NET.S.Tkachenko.08\bin\Debug\NET.S.Tkachenko.08.exe
+C:\Users\User\Documents\NET.S.Tkachenko.08\NET.S.Tkachenko.08\bin\Debug\NET.S.Tkachenko.08.pdb
+C:\Users\User\Documents\NET.S.Tkachenko.08\NET.S.Tkachenko.08\obj\Debug\NET.S.Tkachenko.08.csprojAssemblyReference.cache
+C:\Users\User\Documents\NET.S.Tkachenko.08\NET.S.Tkachenko.08\obj\Debug\NET.S.Tkachenko.08.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NET.S.Tkachenko.08\NET.S.Tkachenko.08\obj\Debug\NET.S.Tkachenko.08.exe
+C:\Users\User\Documents\NET.S.Tkachenko.08\NET.S.Tkachenko.08\obj\Debug\NET.S.Tkachenko.08.pdb
