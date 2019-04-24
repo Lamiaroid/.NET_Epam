@@ -1,0 +1,7 @@
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\Timer\NET.S.2019.Tkachenko.11_Timer\NET.S.2019.Tkachenko.11_Timer\bin\Debug\NET.S.2019.Tkachenko.11_Timer.exe.config
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\Timer\NET.S.2019.Tkachenko.11_Timer\NET.S.2019.Tkachenko.11_Timer\bin\Debug\NET.S.2019.Tkachenko.11_Timer.exe
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\Timer\NET.S.2019.Tkachenko.11_Timer\NET.S.2019.Tkachenko.11_Timer\bin\Debug\NET.S.2019.Tkachenko.11_Timer.pdb
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\Timer\NET.S.2019.Tkachenko.11_Timer\NET.S.2019.Tkachenko.11_Timer\obj\Debug\NET.S.2019.Tkachenko.11_Timer.csprojAssemblyReference.cache
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\Timer\NET.S.2019.Tkachenko.11_Timer\NET.S.2019.Tkachenko.11_Timer\obj\Debug\NET.S.2019.Tkachenko.11_Timer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\Timer\NET.S.2019.Tkachenko.11_Timer\NET.S.2019.Tkachenko.11_Timer\obj\Debug\NET.S.2019.Tkachenko.11_Timer.exe
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\Timer\NET.S.2019.Tkachenko.11_Timer\NET.S.2019.Tkachenko.11_Timer\obj\Debug\NET.S.2019.Tkachenko.11_Timer.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\bin\Debug\NET.S.2019.11_FiboAndBinSearch.dll
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\bin\Debug\NET.S.2019.11_FiboAndBinSearch.pdb
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\bin\Debug\nunit.framework.pdb
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\bin\Debug\nunit.framework.xml
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\obj\Debug\NET.S.2019.11_FiboAndBinSearch.csprojAssemblyReference.cache
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\obj\Debug\NET.S.2019.11_FiboAndBinSearch.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\obj\Debug\NET.S.2019.11_FiboAndBinSearch.csproj.CopyComplete
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\obj\Debug\NET.S.2019.11_FiboAndBinSearch.dll
+C:\Users\User\Documents\NET.S.2019.Tkachenko.11\BinarySearchAndFibonacci\NET.S.2019.11_FiboAndBinSearch\NET.S.2019.11_FiboAndBinSearch\obj\Debug\NET.S.2019.11_FiboAndBinSearch.pdb
