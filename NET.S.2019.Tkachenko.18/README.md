@@ -11,7 +11,7 @@ https://habrahabr.ru/company/it-grad/blog/341486/
 
 результирующим является XML-документ вида (можно использовать любую XML технологию без ограничений).
 
-![alt text](https://github.com/Lamiaroid/.NET_Epam/new/master/NET.S.2019.Tkachenko.18/Example.png)
+![alt text](https://github.com/Lamiaroid/.NET_Epam/blob/master/NET.S.2019.Tkachenko.18/Example.png)
 
 Для тех URL-адресов, которые не совпадают с данным паттерном, “залогировать” информацию, отметив
 указанные строки, как необработанные.
