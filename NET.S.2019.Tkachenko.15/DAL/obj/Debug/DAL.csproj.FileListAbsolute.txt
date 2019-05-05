@@ -1,0 +1,11 @@
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\bin\Debug\DAL.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\bin\Debug\AccountTypes.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\bin\Debug\DAL.Interface.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\bin\Debug\AccountTypes.pdb
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\bin\Debug\DAL.Interface.pdb
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\obj\Debug\DAL.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlAddresses>
+  <urlAddress>
+    <host name="github.com" />
+    <uri>
+      <segment>AnzhelikaKravchuk</segment>
+    </uri>
+    <parameters>
+      <parametr key="tab" value="repositories" />
+    </parameters>
+  </urlAddress>
+  <urlAddress>
+    <host name="github.com" />
+    <uri>
+      <segment>AnzhelikaKravchuk</segment>
+      <segment>2017-2018.MMF.BSU</segment>
+    </uri>
+  </urlAddress>
+  <urlAddress>
+    <host name="habrahabr.ru" />
+    <uri>
+      <segment>company</segment>
+      <segment>it-grad</segment>
+      <segment>blog</segment>
+      <segment>341486</segment>
+    </uri>
+  </urlAddress>
+  <urlAddress>
+    <host name="stackoverflow.com" />
+    <uri>
+      <segment>questions</segment>
+      <segment>7405828</segment>
+      <segment>streamwriter-rewrite-the-file-or-append-to-the-file</segment>
+    </uri>
+  </urlAddress>
+  <urlAddress>
+    <host name="github.com" />
+    <uri>
+      <segment>Secret</segment>
+      <segment>ARXANGEL</segment>
+    </uri>
+    <parameters>
+      <parametr key="tab" value="repo" />
+      <parametr key="i" value="RE" />
+      <parametr key="promo" value="fX" />
+    </parameters>
+  </urlAddress>
+  <urlAddress>
+    <host name="github.com" />
+  </urlAddress>
+  <urlAddress>
+    <host name="xgu.ru" />
+    <uri>
+      <segment>wiki</segment>
+      <segment>VLAN_%D0%B2_Cisco</segment>
+    </uri>
+    <parameters>
+      <parametr key="repo" value="new" />
+    </parameters>
+  </urlAddress>
+</urlAddresses>

@@ -1,0 +1,5 @@
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL.Fake\bin\Debug\DAL.Fake.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL.Fake\bin\Debug\DAL.Fake.pdb
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL.Fake\obj\Debug\DAL.Fake.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL.Fake\obj\Debug\DAL.Fake.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\DAL.Fake\obj\Debug\DAL.Fake.pdb

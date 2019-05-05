@@ -1,0 +1,5 @@
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\AccountTypes\bin\Debug\AccountTypes.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\AccountTypes\bin\Debug\AccountTypes.pdb
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\AccountTypes\obj\Debug\AccountTypes.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\AccountTypes\obj\Debug\AccountTypes.dll
+C:\Users\User\Pictures\NET.S.2019.Tkachenko.15\AccountTypes\obj\Debug\AccountTypes.pdb
