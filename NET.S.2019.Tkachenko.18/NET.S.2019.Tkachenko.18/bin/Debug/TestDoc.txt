@@ -1,6 +1,7 @@
 https://github.com/AnzhelikaKravchuk?tab=repositories/new
 https://github.com/AnzhelikaKravchuk?tab=repositories
 https://
+httpss://github.com/AnzhelikaKravchuk?tab=repositories
 https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU
 https://habrahabr.ru/company/it-grad/blog/341486/
 https://stackoverflow.com/questions/7405828/streamwriter-rewrite-the-file-or-append-to-the-file
@@ -10,3 +11,6 @@ https://github.com
 https://habrahabr.ru/company/it-grad/bl?og/341486/
 http://xgu.ru/wiki/VLAN_%D0%B2_Cisco?repo=
 http://xgu.ru/wiki/VLAN_%D0%B2_Cisco?repo=new
+http://xgu.ru/wiki/VLAN_%D0%B2_Cisco?
+http://xgu.ru/wiki/VLAN_%D0%B2_Cisco?/
+http://xgu.ru/wiki/VLAN_%D0%B2_Cisco//

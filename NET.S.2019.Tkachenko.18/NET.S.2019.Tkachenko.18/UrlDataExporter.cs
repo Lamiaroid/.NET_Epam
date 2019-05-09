@@ -28,7 +28,7 @@ namespace NET.S._2019.Tkachenko._18
         /// <param name="fileName">File with data for export</param>
         public void ExportData(string fileName)
         {          
-            Regex urlAddressPattern = new Regex(@"^http[s]{0,1}:\/\/([^?\/]+(\/)?){1,}((?<=\/)[^\?\/\=\&]+\?([^\?\/\=\&]+=[^\?\/\=\&]+(&[^\?\/\=]+=[^\?\/\=\&]+){0,}){0,1}[\/]{0,1}){0,1}$");
+            Regex urlAddressPattern = new Regex(@"^http[s]?:\/\/([^?\/]+(\/|$))+([^\?\/\=\&]+\?([^\?\/\=\&]+=[^\?\/\=\&]+(&[^\?\/\=]+=[^\?\/\=\&]+)*)[\/]?)?$");
             Regex partWithoutParamsPattern = new Regex(@"(?<=\/).+?(?=\/|$)");
             Regex partWithParamsPattern = new Regex(@"(.+)(\?)(.+)(?=\/|$)");
             Regex extraParamsPattern = new Regex(@"([^=&]+)(=)([^=&]+)");
